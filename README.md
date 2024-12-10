@@ -1,2 +1,2 @@
-# onesmiledentalcare.github.io
+# onesmiledentalcare
 Onesmiledentalcare.in
